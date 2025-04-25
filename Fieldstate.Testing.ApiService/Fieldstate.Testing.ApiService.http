@@ -1,0 +1,6 @@
+@Fieldstate.Testing.ApiService_HostAddress = http://localhost:5025
+
+GET {{Fieldstate.Testing.ApiService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

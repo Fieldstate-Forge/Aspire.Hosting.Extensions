@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fieldstate.Aspire.Hosting.Azure.AppContainers", "Fieldstate.Aspire.Hosting.Azure.AppContainers\Fieldstate.Aspire.Hosting.Azure.AppContainers.csproj", "{9C49B814-0F49-4EEC-AE0C-F26FA9C7DA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fieldstate.Testing.Apphost", "Fieldstate.Testing.Apphost\Fieldstate.Testing.Apphost.csproj", "{F674C680-C6AD-47F6-A5AB-C2B65D381571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fieldstate.Testing.ApiService", "Fieldstate.Testing.ApiService\Fieldstate.Testing.ApiService.csproj", "{3B39D62D-2722-40AB-855A-FF672F2D50BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C49B814-0F49-4EEC-AE0C-F26FA9C7DA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C49B814-0F49-4EEC-AE0C-F26FA9C7DA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C49B814-0F49-4EEC-AE0C-F26FA9C7DA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C49B814-0F49-4EEC-AE0C-F26FA9C7DA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F674C680-C6AD-47F6-A5AB-C2B65D381571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F674C680-C6AD-47F6-A5AB-C2B65D381571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F674C680-C6AD-47F6-A5AB-C2B65D381571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F674C680-C6AD-47F6-A5AB-C2B65D381571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B39D62D-2722-40AB-855A-FF672F2D50BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B39D62D-2722-40AB-855A-FF672F2D50BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B39D62D-2722-40AB-855A-FF672F2D50BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B39D62D-2722-40AB-855A-FF672F2D50BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37DCB5B0-9254-4BF0-A7EC-FF187C9B0F12}
+	EndGlobalSection
+EndGlobal
